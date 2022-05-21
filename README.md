@@ -33,5 +33,5 @@ $ jupyter notebook
 * Bi-LSTM model with a Word Embedding layer using GloVe achives an accuracy of `88.91%`
 
 <p align="center">
-  <img src="./lstm_result.jpg" alt="CNN result" />
+  <img src="./lstm_result.jpg" alt="LSTM result" />
 </p>
